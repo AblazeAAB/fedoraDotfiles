@@ -1,18 +1,4 @@
-2026/08/29-20:43:30.026 209e Reusing MANIFEST /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_github.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/08/29-20:43:30.027 209e Recovering log #3
-2026/08/29-20:43:30.027 209e Reusing old log /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_github.com_0.indexeddb.leveldb/000003.log 
-2026/08/29-20:43:30.537 20a0 Level-0 table #5: started
-2026/08/29-20:43:30.539 20a0 Level-0 table #5: 36532 bytes OK
-2026/08/29-20:43:30.542 20a0 Delete type=0 #3
-2026/08/29-20:43:30.542 209e Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/08/29-20:43:30.542 209e Level-0 table #7: started
-2026/08/29-20:43:30.543 209e Level-0 table #7: 1120 bytes OK
-2026/08/29-20:43:30.545 209e Delete type=0 #4
-2026/08/29-20:43:30.546 209e Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/08/29-20:43:30.546 209e Manual compaction at level-1 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at '\x00\x01\x01\x02\x01\x95\x01\x00p\x00r\x00o\x00t\x00o\x00:\x00:\x00d\x006\x00c\x00f\x002\x006\x00b\x005\x001\x00a\x00d\x00b\x00-\x00[\x00"\x00c\x00o\x00d\x00e\x00-\x00v\x00i\x00e\x00w\x00"\x00,\x00"\x00c\x00o\x00d\x00e\x00V\x00i\x00e\x00w\x00R\x00e\x00p\x00o\x00R\x00o\x00u\x00t\x00e\x00"\x00,\x00"\x00/\x00:\x00o\x00w\x00n\x00e\x00r\x00/\x00:\x00r\x00e\x00p\x00o\x00"\x00,\x00"\x00t\x00r\x00e\x00e\x00C\x00o\x00m\x00m\x00i\x00t\x00I\x00n\x00f\x00o\x00"\x00,\x00{\x00"\x00p\x00a\x00t\x00h\x00n\x00a\x00m\x00e\x00"\x00:\x00"\x00/\x00j\x00a\x00s\x00l\x00r\x00o\x00b\x00i\x00n\x00s\x00o\x00n\x00/\x00c\x00i\x00r\x00c\x00l\x00e\x00-\x00t\x00o\x00-\x00s\x00e\x00a\x00r\x00c\x00h\x00/\x00t\x00r\x00e\x00e\x00-\x00c\x00o\x00m\x00m\x00i\x00t\x00-\x00i\x00n\x00f\x00o\x00"\x00}\x00]' @ 369 : 0
-2026/08/29-20:43:30.546 209e Compacting 1@1 + 1@2 files
-2026/08/29-20:43:30.547 209e Generated table #8@1: 45 keys, 4140 bytes
-2026/08/29-20:43:30.547 209e Compacted 1@1 + 1@2 files => 4140 bytes
-2026/08/29-20:43:30.551 209e compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/08/29-20:43:30.551 209e Delete type=2 #7
-2026/08/29-20:43:30.551 209e Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x95\x01\x00p\x00r\x00o\x00t\x00o\x00:\x00:\x00d\x006\x00c\x00f\x002\x006\x00b\x005\x001\x00a\x00d\x00b\x00-\x00[\x00"\x00c\x00o\x00d\x00e\x00-\x00v\x00i\x00e\x00w\x00"\x00,\x00"\x00c\x00o\x00d\x00e\x00V\x00i\x00e\x00w\x00R\x00e\x00p\x00o\x00R\x00o\x00u\x00t\x00e\x00"\x00,\x00"\x00/\x00:\x00o\x00w\x00n\x00e\x00r\x00/\x00:\x00r\x00e\x00p\x00o\x00"\x00,\x00"\x00t\x00r\x00e\x00e\x00C\x00o\x00m\x00m\x00i\x00t\x00I\x00n\x00f\x00o\x00"\x00,\x00{\x00"\x00p\x00a\x00t\x00h\x00n\x00a\x00m\x00e\x00"\x00:\x00"\x00/\x00j\x00a\x00s\x00l\x00r\x00o\x00b\x00i\x00n\x00s\x00o\x00n\x00/\x00c\x00i\x00r\x00c\x00l\x00e\x00-\x00t\x00o\x00-\x00s\x00e\x00a\x00r\x00c\x00h\x00/\x00t\x00r\x00e\x00e\x00-\x00c\x00o\x00m\x00m\x00i\x00t\x00-\x00i\x00n\x00f\x00o\x00"\x00}\x00]' @ 369 : 0 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/08/29-20:44:49.052 2ac7 Reusing MANIFEST /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_github.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/29-20:44:49.052 2ac7 Recovering log #6
+2026/08/29-20:44:49.052 2ac7 Reusing old log /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_github.com_0.indexeddb.leveldb/000006.log 
+2026/08/29-20:44:49.053 2ac7 Delete type=2 #5
