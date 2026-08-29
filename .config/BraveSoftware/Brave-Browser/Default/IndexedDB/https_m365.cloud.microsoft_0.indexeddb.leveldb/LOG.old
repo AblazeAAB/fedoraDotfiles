@@ -1,7 +1,0 @@
-2026/07/25-08:42:14.851 2602 Reusing MANIFEST /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_m365.cloud.microsoft_0.indexeddb.leveldb/MANIFEST-000001
-2026/07/25-08:42:14.851 2602 Recovering log #3
-2026/07/25-08:42:14.853 2602 Reusing old log /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_m365.cloud.microsoft_0.indexeddb.leveldb/000003.log 
-2026/07/25-11:46:03.531 2604 Level-0 table #5: started
-2026/07/25-11:46:03.534 2604 Level-0 table #5: 105428 bytes OK
-2026/07/25-11:46:03.537 2604 Delete type=0 #3
-2026/07/25-11:46:03.537 2604 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

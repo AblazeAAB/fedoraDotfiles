@@ -1,6 +1,0 @@
-2026/03/19-21:56:18.763 6ec1 Creating DB /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_thundercats.fandom.com_0.indexeddb.leveldb since it was missing.
-2026/03/19-21:56:18.766 6ec1 Reusing MANIFEST /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_thundercats.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/03/19-21:57:27.314 6ed0 Level-0 table #5: started
-2026/03/19-21:57:27.317 6ed0 Level-0 table #5: 20990 bytes OK
-2026/03/19-21:57:27.319 6ed0 Delete type=0 #3
-2026/03/19-21:57:27.319 6ec1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
