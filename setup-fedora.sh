@@ -18,3 +18,8 @@ if [ -f "$HOME/.gnome-extensions-settings.ini" ]; then
 fi
 
 echo "=== Setup complete! Please restart your GNOME session or reboot. ==="
+
+if [ -f "$HOME/.gnome-interface-settings.ini" ]; then
+    echo "Restoring GNOME look and feel..."
+    dconf load /org/gnome/desktop/interface/ < $HOME/.gnome-interface-settings.ini
+fi
