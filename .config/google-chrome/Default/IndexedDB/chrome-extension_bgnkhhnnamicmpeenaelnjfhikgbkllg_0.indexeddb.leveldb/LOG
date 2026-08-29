@@ -1,0 +1,14 @@
+2026/08/29-18:54:41.089 3863 Reusing MANIFEST /home/aab/.config/google-chrome/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/29-18:54:41.089 3863 Recovering log #105
+2026/08/29-18:54:41.091 3863 Reusing old log /home/aab/.config/google-chrome/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/000105.log 
+2026/08/29-18:54:41.099 3861 Level-0 table #111: started
+2026/08/29-18:54:41.103 3861 Level-0 table #111: 332803 bytes OK
+2026/08/29-18:54:41.105 3861 Delete type=0 #105
+2026/08/29-18:54:41.106 3861 Manual compaction at level-0 from '\x00\x11\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at '\x00\x11\x00\x00\x05' @ 40467 : 1
+2026/08/29-18:54:41.106 3861 Compacting 1@0 + 2@1 files
+2026/08/29-18:54:41.126 3861 Generated table #112@0: 4897 keys, 2121593 bytes
+2026/08/29-18:54:41.130 3861 Generated table #113@0: 238 keys, 407798 bytes
+2026/08/29-18:54:41.130 3861 Compacted 1@0 + 2@1 files => 2529391 bytes
+2026/08/29-18:54:41.132 3861 compacted to: files[ 0 2 1 0 0 0 0 ]
+2026/08/29-18:54:41.133 3861 Delete type=2 #111
+2026/08/29-18:54:41.133 3861 Manual compaction at level-0 from '\x00\x11\x00\x00\x05' @ 40467 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at (end)

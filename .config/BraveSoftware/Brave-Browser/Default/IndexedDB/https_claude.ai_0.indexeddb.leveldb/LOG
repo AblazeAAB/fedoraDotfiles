@@ -1,0 +1,20 @@
+2026/08/29-18:55:00.673 2dba Creating DB /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_claude.ai_0.indexeddb.leveldb since it was missing.
+2026/08/29-18:55:00.677 2dba Reusing MANIFEST /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_claude.ai_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/29-18:55:49.031 2dcb Level-0 table #5: started
+2026/08/29-18:55:49.034 2dcb Level-0 table #5: 3554 bytes OK
+2026/08/29-18:55:49.036 2dcb Delete type=0 #3
+2026/08/29-18:55:49.037 2dba Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/08/29-18:55:49.046 2dcb Level-0 table #7: started
+2026/08/29-18:55:49.049 2dcb Level-0 table #7: 651 bytes OK
+2026/08/29-18:55:49.052 2dcb Delete type=0 #4
+2026/08/29-18:55:49.052 2dbc Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/08/29-18:55:49.110 2dcc Level-0 table #9: started
+2026/08/29-18:55:49.111 2dcc Level-0 table #9: 1554 bytes OK
+2026/08/29-18:55:49.113 2dcc Delete type=0 #6
+2026/08/29-18:55:49.114 2dba Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 301 : 1
+2026/08/29-18:55:49.114 2dba Compacting 1@0 + 1@1 files
+2026/08/29-18:55:49.115 2dba Generated table #10@0: 42 keys, 1307 bytes
+2026/08/29-18:55:49.115 2dba Compacted 1@0 + 1@1 files => 1307 bytes
+2026/08/29-18:55:49.118 2dba compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/29-18:55:49.118 2dba Delete type=2 #9
+2026/08/29-18:55:49.118 2dba Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 301 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

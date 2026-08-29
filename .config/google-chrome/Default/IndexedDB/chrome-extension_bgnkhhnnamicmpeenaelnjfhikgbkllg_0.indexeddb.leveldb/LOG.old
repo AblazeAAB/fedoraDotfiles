@@ -1,0 +1,40 @@
+2026/08/29-18:49:45.543 3383 Reusing MANIFEST /home/aab/.config/google-chrome/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/29-18:49:45.543 3383 Recovering log #92
+2026/08/29-18:49:45.543 3383 Reusing old log /home/aab/.config/google-chrome/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/000092.log 
+2026/08/29-18:49:45.543 3383 Delete type=2 #89
+2026/08/29-18:49:45.543 3383 Delete type=2 #90
+2026/08/29-18:49:45.552 3380 Level-0 table #98: started
+2026/08/29-18:49:45.554 3380 Level-0 table #98: 623 bytes OK
+2026/08/29-18:49:45.559 3380 Delete type=0 #92
+2026/08/29-18:49:45.559 3380 Manual compaction at level-0 from '\x00\x10\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at '\x00\x10\x00\x00\x05' @ 34767 : 1
+2026/08/29-18:49:45.559 3380 Compacting 1@0 + 2@1 files
+2026/08/29-18:49:45.577 3380 Generated table #99@0: 4372 keys, 2122662 bytes
+2026/08/29-18:49:45.596 3380 Generated table #100@0: 638 keys, 1442938 bytes
+2026/08/29-18:49:45.596 3380 Compacted 1@0 + 2@1 files => 3565600 bytes
+2026/08/29-18:49:45.599 3380 compacted to: files[ 0 2 1 0 0 0 0 ]
+2026/08/29-18:49:45.600 3380 Manual compaction at level-0 from '\x00\x10\x00\x00\x05' @ 34767 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/08/29-18:49:53.165 3383 Level-0 table #102: started
+2026/08/29-18:49:53.190 3383 Level-0 table #102: 3028113 bytes OK
+2026/08/29-18:49:53.195 3383 Delete type=2 #94
+2026/08/29-18:49:53.195 3383 Delete type=2 #95
+2026/08/29-18:49:53.195 3383 Delete type=0 #97
+2026/08/29-18:49:53.195 3383 Delete type=2 #98
+2026/08/29-18:49:53.256 3391 Compacting 1@0 + 2@1 files
+2026/08/29-18:49:53.287 3391 Generated table #103@0: 4488 keys, 2115089 bytes
+2026/08/29-18:49:53.292 3391 Generated table #104@0: 574 keys, 497866 bytes
+2026/08/29-18:49:53.292 3391 Compacted 1@0 + 2@1 files => 2612955 bytes
+2026/08/29-18:49:53.294 3391 compacted to: files[ 0 2 1 0 0 0 0 ]
+2026/08/29-18:49:53.295 3391 Delete type=2 #99
+2026/08/29-18:49:53.295 3391 Delete type=2 #100
+2026/08/29-18:49:53.295 3391 Delete type=2 #102
+2026/08/29-18:49:53.551 3383 Level-0 table #106: started
+2026/08/29-18:49:53.572 3383 Level-0 table #106: 2741474 bytes OK
+2026/08/29-18:49:53.576 3383 Delete type=0 #101
+2026/08/29-18:49:54.293 3383 Compacting 1@0 + 2@1 files
+2026/08/29-18:49:54.318 3383 Generated table #107@0: 4885 keys, 2129229 bytes
+2026/08/29-18:49:54.322 3383 Generated table #108@0: 233 keys, 417983 bytes
+2026/08/29-18:49:54.322 3383 Compacted 1@0 + 2@1 files => 2547212 bytes
+2026/08/29-18:49:54.325 3383 compacted to: files[ 0 2 1 0 0 0 0 ]
+2026/08/29-18:49:54.325 3383 Delete type=2 #103
+2026/08/29-18:49:54.326 3383 Delete type=2 #104
+2026/08/29-18:49:54.326 3383 Delete type=2 #106

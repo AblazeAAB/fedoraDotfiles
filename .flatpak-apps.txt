@@ -1,0 +1,12 @@
+com.a_chacon.chaski
+com.mattjakeman.ExtensionManager
+fr.handbrake.ghb
+io.github.focustimerhq.FocusTimer
+io.github.realmazharhussain.GdmSettings
+net.hhoney.rota
+org.gnome.Calculator
+org.gnome.gitlab.YaLTeR.VideoTrimmer
+org.localsend.localsend_app
+org.mozilla.firefox
+org.telegram.desktop
+org.torproject.torbrowser-launcher

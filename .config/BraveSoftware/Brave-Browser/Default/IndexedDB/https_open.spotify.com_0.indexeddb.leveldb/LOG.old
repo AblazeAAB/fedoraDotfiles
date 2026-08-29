@@ -1,0 +1,10 @@
+2026/08/23-02:01:06.713 3966 Reusing MANIFEST /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/23-02:01:06.713 3966 Recovering log #55
+2026/08/23-02:01:06.739 3966 Reusing old log /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/000055.log 
+2026/08/23-02:31:32.927 396a Level-0 table #60: started
+2026/08/23-02:31:32.951 396a Level-0 table #60: 976497 bytes OK
+2026/08/23-02:31:32.955 396a Delete type=0 #55
+2026/08/23-04:17:52.874 396a Compacting 1@1 + 1@2 files
+2026/08/23-04:17:52.914 396a Generated table #61@1: 17391 keys, 1471707 bytes
+2026/08/23-04:17:52.915 396a Compacted 1@1 + 1@2 files => 1471707 bytes
+2026/08/23-04:17:52.917 396a compacted to: files[ 0 0 1 0 0 0 0 ]

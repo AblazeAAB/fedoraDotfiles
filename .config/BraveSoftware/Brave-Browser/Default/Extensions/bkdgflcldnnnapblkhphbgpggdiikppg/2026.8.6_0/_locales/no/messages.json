@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Utvidelsens korte beskrivelse i nettbutikken",
+      "message": "Beskytter dataene dine. Privat søk med valgfri AI, privat surfing og annonseblokkering."
+   },
+   "appName": {
+      "description": "Utvidelsens tittel i nettbutikken",
+      "message": "DuckDuckGo Search & Tracker Protection"
+   }
+}

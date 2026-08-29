@@ -1,0 +1,120 @@
+{
+   "checksum": "52a4edbbfc509471d193aef3d49902b5",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13413699927000000",
+            "date_last_used": "13432324139080602",
+            "guid": "dc169762-dfb1-4316-902e-110b31a5a73e",
+            "id": "5",
+            "name": "Facebook",
+            "type": "url",
+            "url": "https://www.facebook.com/"
+         }, {
+            "date_added": "13232369602000000",
+            "date_last_used": "13432239516854809",
+            "guid": "36b1fd92-014d-413f-9569-d17fcf1aba26",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13232369605000000",
+            "date_last_used": "13420027641590747",
+            "guid": "b6fbd762-c4a6-41d6-88c5-c7402aa8c4c0",
+            "id": "7",
+            "name": "Translate",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13391026021000000",
+            "date_last_used": "13432139359273035",
+            "guid": "d9be1d72-10e5-4991-9a3f-f4e0d872be5a",
+            "id": "8",
+            "name": "WhatsApp",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13414245862000000",
+            "date_last_used": "13432215536299991",
+            "guid": "20a2813c-5e7c-4ece-889f-dc24865d75a2",
+            "id": "9",
+            "name": "Canvas",
+            "type": "url",
+            "url": "https://northsouth.instructure.com/"
+         }, {
+            "date_added": "13423137320736974",
+            "date_last_used": "13424688158332463",
+            "guid": "e4185a1e-f2d1-4342-8f39-277aae30c7e7",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "JavaScript Certification | freeCodeCamp.org",
+            "type": "url",
+            "url": "https://www.freecodecamp.org/learn/javascript-v9#lecture-introduction-to-javascript"
+         }, {
+            "date_added": "13429390501014204",
+            "date_last_used": "0",
+            "guid": "75e23e94-8922-495b-a14d-b52b246086cf",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "One Piece [English]",
+            "type": "url",
+            "url": "https://themoviebox.xyz/movies/one-piece-english-OJafGbGekK4?id=3984321945629247112&type=/movie/detail&detailSe=&detailEp=&lang=en"
+         } ],
+         "date_added": "13418316413000945",
+         "date_last_used": "0",
+         "date_modified": "13429390501014204",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13423202637066553",
+            "date_last_used": "0",
+            "guid": "9f1ec489-7c30-4d6f-8b9c-a5d3d118ddba",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "যশোর মেডিকেল কলেজে রুম দখল, গভীর রাতে উত্তেজনা-Subornovumi",
+            "type": "url",
+            "url": "https://www.subornovumi.com/details/latest/6988"
+         }, {
+            "date_added": "13424688743199319",
+            "date_last_used": "0",
+            "guid": "7a70cbfa-f791-459f-b441-194444136c35",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Use A BDSM Cat Girl Slave Porn Game [Pink Tea]",
+            "type": "url",
+            "url": "https://wetpussygames.com/adult-games/use-a-bdsm-cat-girl-slave.html"
+         } ],
+         "date_added": "13418316413000945",
+         "date_last_used": "0",
+         "date_modified": "13429192464827485",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13418316413000945",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

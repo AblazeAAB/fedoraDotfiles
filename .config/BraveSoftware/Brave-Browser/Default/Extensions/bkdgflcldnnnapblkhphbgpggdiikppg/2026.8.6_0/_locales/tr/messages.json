@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Uzantının web mağazasında görüntülenen kısa açıklaması",
+      "message": "Verilerinizi korur. İsteğe bağlı yapay zeka destekli gizli arama, gizli gezinme ve reklam engelleme."
+   },
+   "appName": {
+      "description": "Uzantının web mağazasında görüntülenen başlığı",
+      "message": "DuckDuckGo Search & Tracker Protection"
+   }
+}

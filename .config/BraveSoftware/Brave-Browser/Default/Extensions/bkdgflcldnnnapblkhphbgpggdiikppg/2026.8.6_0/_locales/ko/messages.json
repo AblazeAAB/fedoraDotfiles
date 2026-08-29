@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "웹 스토어에 표시되는 확장에 대한 간단 설명",
+      "message": "데이터를 안전하게 보호합니다. AI 옵션을 지원하는 프라이빗 검색과 프라이빗 브라우징, 광고 차단 기능까지 제공합니다."
+   },
+   "appName": {
+      "description": "웹 스토어에 표시되는 확장 프로그램 제목",
+      "message": "DuckDuckGo Search & Tracker Protection"
+   }
+}

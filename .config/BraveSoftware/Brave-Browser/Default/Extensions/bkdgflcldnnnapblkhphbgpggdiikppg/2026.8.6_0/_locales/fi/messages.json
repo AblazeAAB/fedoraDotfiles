@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Laajennuksen lyhyt kuvaus, joka näytetään verkkokaupassa",
+      "message": "Suojaa tietosi. Yksityinen haku valinnaisella tekoälyllä, yksityinen selaus ja mainosten esto."
+   },
+   "appName": {
+      "description": "Laajennuksen nimi, joka näytetään verkkokaupassa",
+      "message": "DuckDuckGo Search & Tracker Protection"
+   }
+}

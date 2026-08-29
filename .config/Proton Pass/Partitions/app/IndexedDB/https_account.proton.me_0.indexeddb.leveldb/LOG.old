@@ -1,0 +1,2 @@
+2026/05/21-14:36:20.803 7096 Creating DB /home/aab/.config/Proton Pass/Partitions/app/IndexedDB/https_account.proton.me_0.indexeddb.leveldb since it was missing.
+2026/05/21-14:36:20.807 7096 Reusing MANIFEST /home/aab/.config/Proton Pass/Partitions/app/IndexedDB/https_account.proton.me_0.indexeddb.leveldb/MANIFEST-000001

@@ -1,0 +1,43 @@
+2026/07/16-00:45:41.613 1432 Reusing MANIFEST /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_toffeelive.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/07/16-00:45:41.613 1432 Recovering log #39
+2026/07/16-00:45:41.614 1432 Reusing old log /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_toffeelive.com_0.indexeddb.leveldb/000039.log 
+2026/07/16-00:45:41.614 1432 Delete type=2 #38
+2026/07/16-00:45:41.752 1443 Level-0 table #44: started
+2026/07/16-00:45:41.754 1443 Level-0 table #44: 6142 bytes OK
+2026/07/16-00:45:41.757 1443 Delete type=0 #39
+2026/07/16-00:45:41.757 1432 Manual compaction at level-0 from '\x00\x13\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at '\x00\x13\x00\x00\x05' @ 800 : 1
+2026/07/16-00:45:41.757 1432 Compacting 1@0 + 1@1 files
+2026/07/16-00:45:41.760 1432 Generated table #45@0: 117 keys, 4146 bytes
+2026/07/16-00:45:41.760 1432 Compacted 1@0 + 1@1 files => 4146 bytes
+2026/07/16-00:45:41.762 1432 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/07/16-00:45:41.762 1432 Delete type=2 #44
+2026/07/16-00:45:41.763 1432 Manual compaction at level-0 from '\x00\x13\x00\x00\x05' @ 800 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/07/16-00:45:44.953 1444 Level-0 table #47: started
+2026/07/16-00:45:44.956 1444 Level-0 table #47: 1359 bytes OK
+2026/07/16-00:45:44.961 1444 Delete type=2 #41
+2026/07/16-00:45:44.961 1444 Delete type=0 #43
+2026/07/16-00:45:44.961 1436 Manual compaction at level-0 from '\x00\x14\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x15\x00\x00\x00' @ 0 : 0; will stop at '\x00\x14\x00\x00\x05' @ 859 : 1
+2026/07/16-00:45:44.961 1436 Compacting 1@0 + 1@1 files
+2026/07/16-00:45:44.963 1436 Generated table #48@0: 118 keys, 2511 bytes
+2026/07/16-00:45:44.963 1436 Compacted 1@0 + 1@1 files => 2511 bytes
+2026/07/16-00:45:44.966 1436 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/07/16-00:45:44.967 1436 Delete type=2 #47
+2026/07/16-00:45:44.967 1432 Manual compaction at level-0 from '\x00\x14\x00\x00\x05' @ 859 : 1 .. '\x00\x15\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/07/16-00:45:44.967 1432 Level-0 table #50: started
+2026/07/16-00:45:44.969 1432 Level-0 table #50: 1555 bytes OK
+2026/07/16-00:45:44.971 1432 Delete type=2 #45
+2026/07/16-00:45:44.972 1432 Delete type=0 #46
+2026/07/16-00:45:44.972 1432 Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at '\x00\x15\x00\x00\x05' @ 876 : 1
+2026/07/16-00:45:44.972 1432 Compacting 1@0 + 1@1 files
+2026/07/16-00:45:44.974 1432 Generated table #51@0: 123 keys, 2792 bytes
+2026/07/16-00:45:44.974 1432 Compacted 1@0 + 1@1 files => 2792 bytes
+2026/07/16-00:45:44.976 1432 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/07/16-00:45:44.976 1432 Delete type=2 #50
+2026/07/16-00:45:44.976 1432 Manual compaction at level-0 from '\x00\x15\x00\x00\x05' @ 876 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/07/16-00:47:05.755 1436 Compacting 1@1 + 1@2 files
+2026/07/16-00:47:05.757 1436 Generated table #52@1: 75 keys, 2183 bytes
+2026/07/16-00:47:05.757 1436 Compacted 1@1 + 1@2 files => 2183 bytes
+2026/07/16-00:47:05.759 1436 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/07/16-00:47:05.760 1436 Delete type=2 #20
+2026/07/16-00:47:05.760 1436 Delete type=2 #48
+2026/07/16-00:47:05.760 1436 Delete type=2 #51

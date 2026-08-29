@@ -1,0 +1,486 @@
+11:05:25.784: Platform: Wayland
+11:05:25.784: CPU Name: Intel(R) Core(TM) Ultra 5 125H
+11:05:25.784: CPU Speed: 2631.922MHz
+11:05:25.784: Physical Cores: 14, Logical Cores: 18
+11:05:25.784: Physical Memory: 15433MB Total, 7785MB Free
+11:05:25.784: Kernel Version: Linux 7.0.8-200.fc44.x86_64
+11:05:25.784: Distribution: "Fedora Linux" 44
+11:05:25.784: Desktop Environment: GNOME (gnome)
+11:05:25.784: Session Type: wayland
+11:05:25.785: Current Date/Time: 2026-05-19, 11:05:25 AM
+11:05:25.785: Browser Hardware Acceleration: true
+11:05:25.785: Qt Version: 6.11.1 (runtime), 6.11.1 (compiled)
+11:05:25.785: Portable mode: false
+11:05:25.811: OBS 32.1.1 (linux)
+11:05:25.811: ---------------------------------
+11:05:25.811: ---------------------------------
+11:05:25.811: audio settings reset:
+11:05:25.811: 	samples per sec: 48000
+11:05:25.811: 	speakers:        2
+11:05:25.811: 	max buffering:   960 milliseconds
+11:05:25.811: 	buffering type:  dynamically increasing
+11:05:25.815: ---------------------------------
+11:05:25.815: Initializing OpenGL...
+11:05:25.815: Using EGL/Wayland
+11:05:25.844: Initialized EGL 1.5
+11:05:25.857: Loading up OpenGL on adapter Intel Mesa Intel(R) Arc(tm) Graphics (MTL)
+11:05:25.857: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 26.0.6, shading language 4.60
+11:05:25.949: ---------------------------------
+11:05:25.949: video settings reset:
+11:05:25.949: 	base resolution:   1920x1080
+11:05:25.949: 	output resolution: 1280x720
+11:05:25.949: 	downscale filter:  Bicubic
+11:05:25.949: 	fps:               30/1
+11:05:25.949: 	format:            NV12
+11:05:25.949: 	YUV mode:          Rec. 709/Partial
+11:05:25.949: NV12 texture support enabled
+11:05:25.949: P010 texture support not available
+11:05:25.954: Audio monitoring device:
+11:05:25.954: 	name: Default
+11:05:25.954: 	id: default
+11:05:25.957: ---------------------------------
+11:05:25.961: Failed to load 'en-US' text for module: 'decklink-captions.so'
+11:05:25.964: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+11:05:25.967: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+11:05:25.967: Failed to initialize module 'decklink.so'
+11:05:26.083: [pipewire] Available capture sources:
+11:05:26.083: [pipewire]     - Monitor source
+11:05:26.083: [pipewire]     - Window source
+11:05:26.094: v4l2loopback not installed, virtual camera not registered
+11:05:26.110: [obs-browser]: Alloy Runtime preferences not found. No migration necessary.
+11:05:26.110: [obs-browser]: Version 2.26.8
+11:05:26.110: [obs-browser]: CEF Version 146.0.7680.177 (runtime), 146.0.11+g3a0fcf1+chromium-146.0.7680.177 (compiled)
+11:05:26.179: VAAPI: API version 1.23
+11:05:26.180: FFmpeg VAAPI H264 encoding not supported
+11:05:26.183: FFmpeg VAAPI AV1 encoding supported
+11:05:26.186: FFmpeg VAAPI HEVC encoding not supported
+11:05:26.195: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+11:05:26.195: 
+11:05:26.195: NVENC not supported
+11:05:26.195: Failed to initialize module 'obs-nvenc.so'
+11:05:26.201: [obs-pwvideo] plugin loaded successfully (version 0.2.4)
+11:05:26.231: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.7.3 | RPC Version: 1)
+11:05:26.231: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.11.1 | Qt version (run-time): 6.11.1
+11:05:26.231: [obs-websocket] [obs_module_load] Linked ASIO Version: 103002
+11:05:26.232: [obs-websocket] [Config::Load] Existing configuration not found, using defaults.
+11:05:26.232: [obs-websocket] [Config::Load] (FirstLoad) Generating new server password.
+11:05:26.247: [obs-websocket] [obs_module_load] Module loaded.
+11:05:26.259: [vlc-video]: VLC 3.0.23 Vetinari found, VLC video source enabled
+11:05:26.259: ---------------------------------
+11:05:26.259:   Loaded Modules:
+11:05:26.259:     vlc-video.so
+11:05:26.259:     text-freetype2.so
+11:05:26.259:     rtmp-services.so
+11:05:26.259:     obs-websocket.so
+11:05:26.259:     obs-webrtc.so
+11:05:26.259:     obs-webkitgtk.so
+11:05:26.259:     obs-vst.so
+11:05:26.259:     obs-transitions.so
+11:05:26.259:     obs-qsv11.so
+11:05:26.259:     obs-pwvideo.so
+11:05:26.259:     obs-outputs.so
+11:05:26.259:     obs-libfdk.so
+11:05:26.259:     obs-filters.so
+11:05:26.259:     obs-ffmpeg.so
+11:05:26.259:     obs-browser.so
+11:05:26.259:     linux-v4l2.so
+11:05:26.259:     linux-pulseaudio.so
+11:05:26.259:     linux-pipewire.so
+11:05:26.259:     linux-jack.so
+11:05:26.259:     linux-capture.so
+11:05:26.259:     linux-alsa.so
+11:05:26.259:     image-source.so
+11:05:26.259:     frontend-tools.so
+11:05:26.259:     decklink-output-ui.so
+11:05:26.259:     decklink-captions.so
+11:05:26.259: ---------------------------------
+11:05:26.259: ---------------------------------
+11:05:26.259: Available Encoders:
+11:05:26.259:   Video Encoders:
+11:05:26.259: 	- ffmpeg_openh264 (OpenH264)
+11:05:26.259: 	- ffmpeg_svt_av1 (SVT-AV1)
+11:05:26.259: 	- ffmpeg_aom_av1 (AOM AV1)
+11:05:26.259: 	- av1_ffmpeg_vaapi_tex (FFmpeg VAAPI AV1)
+11:05:26.259: 	- obs_qsv11_v2 (QuickSync H.264)
+11:05:26.259: 	- obs_qsv11_av1 (QuickSync AV1)
+11:05:26.259:   Audio Encoders:
+11:05:26.259: 	- ffmpeg_aac (FFmpeg AAC)
+11:05:26.259: 	- ffmpeg_opus (FFmpeg Opus)
+11:05:26.259: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+11:05:26.259: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+11:05:26.259: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+11:05:26.259: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+11:05:26.259: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+11:05:26.259: 	- libfdk_aac (libfdk AAC)
+11:05:26.259: ==== Startup complete ===============================================
+11:05:26.262: No scene file found, creating default scene
+11:05:26.304: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+11:05:26.304: All scene data cleared
+11:05:26.304: ------------------------------------------------
+11:05:26.317: Device for 'Audio Output Capture' source Desktop Audio is also used for audio monitoring.
+11:05:26.317: Deduplication logic is being applied to all monitored sources.
+11:05:26.318: pulse-input: Server name: 'PulseAudio (on PipeWire 1.6.5) 15.0.0'
+11:05:26.318: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+11:05:26.318: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3-platform-skl_hda_dsp_generic.HiFi__Speaker__sink.monitor' (default)
+11:05:26.318: pulse-input: Server name: 'PulseAudio (on PipeWire 1.6.5) 15.0.0'
+11:05:26.319: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+11:05:26.319: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3-platform-skl_hda_dsp_generic.HiFi__Mic1__source' (default)
+11:05:26.319: Switched to scene 'Scene'
+11:05:26.319: Created scene collection 'Untitled' (clean, Untitled.json)
+11:05:26.319: ------------------------------------------------
+11:05:26.325: Device for 'Audio Output Capture' source Desktop Audio is also used for audio monitoring.
+11:05:26.325: Deduplication logic is being applied to all monitored sources.
+11:05:27.006: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+11:05:27.006: 
+11:07:48.340: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x560e491a7da0
+11:08:26.454: 
+11:08:26.454: ==== Auto-config wizard testing commencing ======
+
+11:08:26.455: ---------------------------------
+11:08:26.455: video settings reset:
+11:08:26.455: 	base resolution:   1920x1080
+11:08:26.455: 	output resolution: 128x128
+11:08:26.455: 	downscale filter:  Bicubic
+11:08:26.455: 	fps:               60/1
+11:08:26.455: 	format:            NV12
+11:08:26.455: 	YUV mode:          Rec. 709/Partial
+11:08:26.455: NV12 texture support enabled
+11:08:26.455: P010 texture support not available
+11:08:26.459: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x560e4912c4a0
+11:08:26.467: ---------------------------------
+11:08:26.467: [H.264 encoder: 'test_h264'] settings:
+11:08:26.467: 	encoder:      OpenH264
+11:08:26.467: 	rc_mode:      quality
+11:08:26.467: 	bitrate:      10000
+11:08:26.467: 	keyint_sec:   2
+11:08:26.467: 	profile:      main
+11:08:26.467: 	width:        128
+11:08:26.467: 	height:       128
+11:08:26.467: 	ffmpeg opts:  
+11:08:26.467: 
+11:08:26.468: libfdk_aac encoder created
+11:08:26.468: libfdk_aac bitrate: 32, channels: 2
+11:08:26.468: [rtmp stream: 'test_stream'] Dynamic bitrate disabled. The encoder does not support on-the-fly bitrate reconfiguration.
+11:08:26.468: [rtmp stream: 'test_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+11:08:27.166: RTMPSockBuf_Fill, remote host closed connection
+11:08:27.166: [rtmp stream: 'test_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 failed: -3
+11:08:27.169: [rtmp stream: 'test_stream'] Dynamic bitrate disabled. The encoder does not support on-the-fly bitrate reconfiguration.
+11:08:27.170: [rtmp stream: 'test_stream'] Connecting to RTMP URL rtmps://b.rtmps.youtube.com:443/live2?backup=1...
+11:08:28.029: RTMPSockBuf_Fill, remote host closed connection
+11:08:28.030: [rtmp stream: 'test_stream'] Connection to rtmps://b.rtmps.youtube.com:443/live2?backup=1 failed: -3
+11:08:28.032: [rtmp stream: 'test_stream'] Dynamic bitrate disabled. The encoder does not support on-the-fly bitrate reconfiguration.
+11:08:28.032: [rtmp stream: 'test_stream'] Connecting to RTMP URL rtmp://a.rtmp.youtube.com/live2...
+11:08:28.723: RTMPSockBuf_Fill, remote host closed connection
+11:08:28.723: [rtmp stream: 'test_stream'] Connection to rtmp://a.rtmp.youtube.com/live2 failed: -3
+11:08:28.725: [rtmp stream: 'test_stream'] Dynamic bitrate disabled. The encoder does not support on-the-fly bitrate reconfiguration.
+11:08:28.725: [rtmp stream: 'test_stream'] Connecting to RTMP URL rtmp://b.rtmp.youtube.com/live2?backup=1...
+11:08:29.467: RTMPSockBuf_Fill, remote host closed connection
+11:08:29.468: [rtmp stream: 'test_stream'] Connection to rtmp://b.rtmp.youtube.com/live2?backup=1 failed: -3
+11:08:29.468: libfdk_aac encoder destroyed
+11:08:29.477: ---------------------------------
+11:08:29.477: video settings reset:
+11:08:29.477: 	base resolution:   1920x1080
+11:08:29.477: 	output resolution: 1280x720
+11:08:29.477: 	downscale filter:  Bicubic
+11:08:29.477: 	fps:               30/1
+11:08:29.477: 	format:            NV12
+11:08:29.477: 	YUV mode:          Rec. 709/Partial
+11:08:29.477: NV12 texture support enabled
+11:08:29.477: P010 texture support not available
+11:08:29.487: Device for 'Audio Output Capture' source Desktop Audio is also used for audio monitoring.
+11:08:29.487: Deduplication logic is being applied to all monitored sources.
+11:08:39.013: QFormLayout::takeAt: Invalid index 0
+11:08:39.016: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x560e49194a00
+11:08:39.016: ---------------------------------
+11:08:39.016: video settings reset:
+11:08:39.016: 	base resolution:   1920x1080
+11:08:39.016: 	output resolution: 128x128
+11:08:39.016: 	downscale filter:  Bicubic
+11:08:39.016: 	fps:               60/1
+11:08:39.016: 	format:            NV12
+11:08:39.016: 	YUV mode:          Rec. 709/Partial
+11:08:39.017: NV12 texture support enabled
+11:08:39.017: P010 texture support not available
+11:08:39.028: ---------------------------------
+11:08:39.028: [H.264 encoder: 'test_h264'] settings:
+11:08:39.028: 	encoder:      OpenH264
+11:08:39.028: 	rc_mode:      quality
+11:08:39.028: 	bitrate:      10000
+11:08:39.028: 	keyint_sec:   2
+11:08:39.028: 	profile:      main
+11:08:39.028: 	width:        128
+11:08:39.028: 	height:       128
+11:08:39.028: 	ffmpeg opts:  
+11:08:39.028: 
+11:08:39.028: libfdk_aac encoder created
+11:08:39.028: libfdk_aac bitrate: 32, channels: 2
+11:08:39.029: [rtmp stream: 'test_stream'] Dynamic bitrate disabled. The encoder does not support on-the-fly bitrate reconfiguration.
+11:08:39.029: [rtmp stream: 'test_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+11:08:39.702: RTMPSockBuf_Fill, remote host closed connection
+11:08:39.702: [rtmp stream: 'test_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 failed: -3
+11:08:39.705: [rtmp stream: 'test_stream'] Dynamic bitrate disabled. The encoder does not support on-the-fly bitrate reconfiguration.
+11:08:39.705: [rtmp stream: 'test_stream'] Connecting to RTMP URL rtmps://b.rtmps.youtube.com:443/live2?backup=1...
+11:08:40.696: RTMPSockBuf_Fill, remote host closed connection
+11:08:40.696: [rtmp stream: 'test_stream'] Connection to rtmps://b.rtmps.youtube.com:443/live2?backup=1 failed: -3
+11:08:40.699: [rtmp stream: 'test_stream'] Dynamic bitrate disabled. The encoder does not support on-the-fly bitrate reconfiguration.
+11:08:40.699: [rtmp stream: 'test_stream'] Connecting to RTMP URL rtmp://a.rtmp.youtube.com/live2...
+11:08:41.298: RTMPSockBuf_Fill, remote host closed connection
+11:08:41.299: [rtmp stream: 'test_stream'] Connection to rtmp://a.rtmp.youtube.com/live2 failed: -3
+11:08:41.300: [rtmp stream: 'test_stream'] Dynamic bitrate disabled. The encoder does not support on-the-fly bitrate reconfiguration.
+11:08:41.300: [rtmp stream: 'test_stream'] Connecting to RTMP URL rtmp://b.rtmp.youtube.com/live2?backup=1...
+11:08:42.282: RTMPSockBuf_Fill, remote host closed connection
+11:08:42.282: [rtmp stream: 'test_stream'] Connection to rtmp://b.rtmp.youtube.com/live2?backup=1 failed: -3
+11:08:42.282: libfdk_aac encoder destroyed
+11:08:42.289: ---------------------------------
+11:08:42.289: video settings reset:
+11:08:42.289: 	base resolution:   1920x1080
+11:08:42.289: 	output resolution: 1280x720
+11:08:42.289: 	downscale filter:  Bicubic
+11:08:42.289: 	fps:               30/1
+11:08:42.289: 	format:            NV12
+11:08:42.289: 	YUV mode:          Rec. 709/Partial
+11:08:42.289: NV12 texture support enabled
+11:08:42.289: P010 texture support not available
+11:08:42.298: Device for 'Audio Output Capture' source Desktop Audio is also used for audio monitoring.
+11:08:42.298: Deduplication logic is being applied to all monitored sources.
+11:09:12.767: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x560e44d2fd10
+11:09:15.149: QFormLayout::takeAt: Invalid index 0
+11:09:15.152: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x560e453842d0
+11:09:15.161: ---------------------------------
+11:09:15.161: video settings reset:
+11:09:15.161: 	base resolution:   1920x1080
+11:09:15.161: 	output resolution: 128x128
+11:09:15.161: 	downscale filter:  Bicubic
+11:09:15.161: 	fps:               60/1
+11:09:15.161: 	format:            NV12
+11:09:15.161: 	YUV mode:          Rec. 709/Partial
+11:09:15.161: NV12 texture support enabled
+11:09:15.161: P010 texture support not available
+11:09:15.174: ---------------------------------
+11:09:15.174: [H.264 encoder: 'test_h264'] settings:
+11:09:15.174: 	encoder:      OpenH264
+11:09:15.174: 	rc_mode:      quality
+11:09:15.174: 	bitrate:      10000
+11:09:15.174: 	keyint_sec:   2
+11:09:15.174: 	profile:      main
+11:09:15.174: 	width:        128
+11:09:15.174: 	height:       128
+11:09:15.174: 	ffmpeg opts:  
+11:09:15.174: 
+11:09:15.175: libfdk_aac encoder created
+11:09:15.175: libfdk_aac bitrate: 32, channels: 2
+11:09:15.175: [rtmp stream: 'test_stream'] Dynamic bitrate disabled. The encoder does not support on-the-fly bitrate reconfiguration.
+11:09:15.175: [rtmp stream: 'test_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+11:09:15.927: RTMPSockBuf_Fill, remote host closed connection
+11:09:15.927: [rtmp stream: 'test_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 failed: -3
+11:09:15.930: [rtmp stream: 'test_stream'] Dynamic bitrate disabled. The encoder does not support on-the-fly bitrate reconfiguration.
+11:09:15.930: [rtmp stream: 'test_stream'] Connecting to RTMP URL rtmps://b.rtmps.youtube.com:443/live2?backup=1...
+11:09:16.696: RTMPSockBuf_Fill, remote host closed connection
+11:09:16.696: [rtmp stream: 'test_stream'] Connection to rtmps://b.rtmps.youtube.com:443/live2?backup=1 failed: -3
+11:09:16.699: [rtmp stream: 'test_stream'] Dynamic bitrate disabled. The encoder does not support on-the-fly bitrate reconfiguration.
+11:09:16.699: [rtmp stream: 'test_stream'] Connecting to RTMP URL rtmp://a.rtmp.youtube.com/live2...
+11:09:17.344: RTMPSockBuf_Fill, remote host closed connection
+11:09:17.344: [rtmp stream: 'test_stream'] Connection to rtmp://a.rtmp.youtube.com/live2 failed: -3
+11:09:17.346: [rtmp stream: 'test_stream'] Dynamic bitrate disabled. The encoder does not support on-the-fly bitrate reconfiguration.
+11:09:17.347: [rtmp stream: 'test_stream'] Connecting to RTMP URL rtmp://b.rtmp.youtube.com/live2?backup=1...
+11:09:18.016: RTMPSockBuf_Fill, remote host closed connection
+11:09:18.017: [rtmp stream: 'test_stream'] Connection to rtmp://b.rtmp.youtube.com/live2?backup=1 failed: -3
+11:09:18.017: libfdk_aac encoder destroyed
+11:09:18.033: ---------------------------------
+11:09:18.033: video settings reset:
+11:09:18.033: 	base resolution:   1920x1080
+11:09:18.033: 	output resolution: 1280x720
+11:09:18.033: 	downscale filter:  Bicubic
+11:09:18.033: 	fps:               30/1
+11:09:18.033: 	format:            NV12
+11:09:18.033: 	YUV mode:          Rec. 709/Partial
+11:09:18.033: NV12 texture support enabled
+11:09:18.033: P010 texture support not available
+11:09:18.048: Device for 'Audio Output Capture' source Desktop Audio is also used for audio monitoring.
+11:09:18.048: Deduplication logic is being applied to all monitored sources.
+11:10:06.601: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x560e497ea0a0
+11:10:24.190: QFormLayout::takeAt: Invalid index 0
+11:10:24.208: ---------------------------------
+11:10:24.208: video settings reset:
+11:10:24.208: 	base resolution:   1920x1080
+11:10:24.208: 	output resolution: 1920x1080
+11:10:24.208: 	downscale filter:  Bicubic
+11:10:24.208: 	fps:               60/1
+11:10:24.208: 	format:            NV12
+11:10:24.208: 	YUV mode:          Rec. 709/Partial
+11:10:24.208: NV12 texture support enabled
+11:10:24.208: P010 texture support not available
+11:10:24.217: Output 'null': Tried to use obs_output_set_media on an encoded output
+11:10:24.217: ---------------------------------
+11:10:24.217: [H.264 encoder: 'test_h264'] settings:
+11:10:24.217: 	encoder:      OpenH264
+11:10:24.217: 	rc_mode:      quality
+11:10:24.217: 	bitrate:      6000
+11:10:24.217: 	keyint_sec:   0
+11:10:24.217: 	profile:      main
+11:10:24.217: 	width:        1920
+11:10:24.217: 	height:       1080
+11:10:24.217: 	ffmpeg opts:  
+11:10:24.217: 
+11:10:24.220: libfdk_aac encoder created
+11:10:24.220: libfdk_aac bitrate: 32, channels: 2
+11:10:29.221: Output 'null': stopping
+11:10:29.221: Output 'null': Total frames output: 44
+11:10:29.221: Output 'null': Total drawn frames: 300
+11:10:29.241: libfdk_aac encoder destroyed
+11:10:29.251: ---------------------------------
+11:10:29.251: video settings reset:
+11:10:29.251: 	base resolution:   1920x1080
+11:10:29.251: 	output resolution: 1920x1080
+11:10:29.251: 	downscale filter:  Bicubic
+11:10:29.251: 	fps:               30/1
+11:10:29.251: 	format:            NV12
+11:10:29.251: 	YUV mode:          Rec. 709/Partial
+11:10:29.251: NV12 texture support enabled
+11:10:29.251: P010 texture support not available
+11:10:29.254: Output 'null': Tried to use obs_output_set_media on an encoded output
+11:10:29.254: ---------------------------------
+11:10:29.254: [H.264 encoder: 'test_h264'] settings:
+11:10:29.254: 	encoder:      OpenH264
+11:10:29.254: 	rc_mode:      quality
+11:10:29.254: 	bitrate:      6000
+11:10:29.254: 	keyint_sec:   0
+11:10:29.254: 	profile:      main
+11:10:29.254: 	width:        1920
+11:10:29.254: 	height:       1080
+11:10:29.254: 	ffmpeg opts:  
+11:10:29.254: 
+11:10:29.255: libfdk_aac encoder created
+11:10:29.255: libfdk_aac bitrate: 32, channels: 2
+11:10:34.256: Output 'null': stopping
+11:10:34.256: Output 'null': Total frames output: 36
+11:10:34.256: Output 'null': Total drawn frames: 150
+11:10:34.258: libfdk_aac encoder destroyed
+11:10:34.288: ---------------------------------
+11:10:34.288: video settings reset:
+11:10:34.288: 	base resolution:   1920x1080
+11:10:34.288: 	output resolution: 1280x720
+11:10:34.288: 	downscale filter:  Bicubic
+11:10:34.288: 	fps:               60/1
+11:10:34.288: 	format:            NV12
+11:10:34.288: 	YUV mode:          Rec. 709/Partial
+11:10:34.288: NV12 texture support enabled
+11:10:34.288: P010 texture support not available
+11:10:34.291: Output 'null': Tried to use obs_output_set_media on an encoded output
+11:10:34.291: ---------------------------------
+11:10:34.291: [H.264 encoder: 'test_h264'] settings:
+11:10:34.291: 	encoder:      OpenH264
+11:10:34.291: 	rc_mode:      quality
+11:10:34.291: 	bitrate:      6000
+11:10:34.291: 	keyint_sec:   0
+11:10:34.291: 	profile:      main
+11:10:34.291: 	width:        1280
+11:10:34.291: 	height:       720
+11:10:34.291: 	ffmpeg opts:  
+11:10:34.291: 
+11:10:34.292: libfdk_aac encoder created
+11:10:34.292: libfdk_aac bitrate: 32, channels: 2
+11:10:39.292: Output 'null': stopping
+11:10:39.292: Output 'null': Total frames output: 154
+11:10:39.292: Output 'null': Total drawn frames: 300
+11:10:39.293: libfdk_aac encoder destroyed
+11:10:39.308: ---------------------------------
+11:10:39.308: video settings reset:
+11:10:39.308: 	base resolution:   1920x1080
+11:10:39.308: 	output resolution: 1280x720
+11:10:39.308: 	downscale filter:  Bicubic
+11:10:39.308: 	fps:               30/1
+11:10:39.308: 	format:            NV12
+11:10:39.308: 	YUV mode:          Rec. 709/Partial
+11:10:39.308: NV12 texture support enabled
+11:10:39.308: P010 texture support not available
+11:10:39.319: Device for 'Audio Output Capture' source Desktop Audio is also used for audio monitoring.
+11:10:39.319: Deduplication logic is being applied to all monitored sources.
+11:10:50.946: ---------------------------------
+11:10:50.946: video settings reset:
+11:10:50.946: 	base resolution:   1920x1080
+11:10:50.946: 	output resolution: 1920x1080
+11:10:50.946: 	downscale filter:  Bicubic
+11:10:50.946: 	fps:               60/1
+11:10:50.946: 	format:            NV12
+11:10:50.946: 	YUV mode:          Rec. 709/Partial
+11:10:50.946: NV12 texture support enabled
+11:10:50.946: P010 texture support not available
+11:10:50.955: 
+11:10:50.955: ==== Auto-config wizard testing stopping ========
+
+11:10:50.960: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x560e49152850
+11:11:19.675: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x560e44d4a1f0
+11:11:33.214: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x560e490f0630
+11:11:40.580: PipeWire initialized
+11:11:40.583: User added source 'Screen Capture (PipeWire)' (pipewire-screen-capture-source) to scene 'Scene'
+11:11:40.615: [pipewire] Screencast session created
+11:11:40.616: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x560e44d6ea50
+11:11:40.632: [pipewire] Asking for monitor and window
+11:12:55.727: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x560e49194580
+11:13:02.250: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x560e44d64dd0
+11:13:03.430: User Removed source 'Screen Capture (PipeWire)' (pipewire-screen-capture-source) from scene 'Scene'
+11:13:03.430: [portals] Request cancelled
+11:13:03.435: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x560e4912b5a0
+11:13:15.573: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x560e49193a40
+11:13:18.596: pulse-input: Server name: 'PulseAudio (on PipeWire 1.6.5) 15.0.0'
+11:13:18.597: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+11:13:18.597: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3-platform-skl_hda_dsp_generic.HiFi__Mic1__source' (default)
+11:13:18.600: User added source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) to scene 'Scene'
+11:13:18.641: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x560e496ed5f0
+11:13:20.244: adding 64 milliseconds of audio buffering, total audio buffering is now 85 milliseconds (source: Audio Input Capture (PulseAudio))
+11:13:20.244: 
+11:13:25.409: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x560e496f1500
+11:13:35.222: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x560e49add4f0
+11:13:39.684: PipeWire initialized
+11:13:39.687: User added source 'Screen Capture (PipeWire)' (pipewire-screen-capture-source) to scene 'Scene'
+11:13:39.714: [pipewire] Screencast session created
+11:13:39.714: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x560e49003ba0
+11:13:39.735: [pipewire] Asking for monitor and window
+11:13:48.554: [pipewire] source selected, setting up screencast
+11:13:48.562: [pipewire] Server version: 1.6.5
+11:13:48.562: [pipewire] Library version: 1.6.5
+11:13:48.562: [pipewire] Header version: 1.6.4
+11:13:48.562: [pipewire] Created stream 0x560e491ff2d0
+11:13:48.563: [pipewire] Stream 0x560e491ff2d0 state: "connecting" (error: none)
+11:13:48.563: [pipewire] Playing stream 0x560e491ff2d0
+11:13:48.563: [pipewire] Stream 0x560e491ff2d0 state: "paused" (error: none)
+11:13:48.567: [pipewire] Negotiated format:
+11:13:48.567: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+11:13:48.567: [pipewire]     Modifier: 0x0
+11:13:48.567: [pipewire]     Size: 2560x1600
+11:13:48.567: [pipewire]     Framerate: 0/1
+11:13:48.574: [pipewire] Negotiated format:
+11:13:48.574: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+11:13:48.574: [pipewire]     Modifier: 0x100000000000009
+11:13:48.574: [pipewire]     Size: 2560x1600
+11:13:48.574: [pipewire]     Framerate: 0/1
+11:13:48.636: [pipewire] Stream 0x560e491ff2d0 state: "streaming" (error: none)
+11:13:55.723: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x560e491be5d0
+11:14:09.646: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x560e491a8c40
+11:16:45.073: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x560e4919c620
+11:16:55.812: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 with focusing surface 0x560e49165ee0
+11:17:00.398: Settings changed (stream 1)
+11:17:00.398: ------------------------------------------------
+13:23:50.753: [pipewire] Stream 0x560e491ff2d0 state: "paused" (error: none)
+13:23:50.867: [pipewire] Stream 0x560e491ff2d0 state: "error" (error: no more input formats)
+13:23:50.867: [pipewire] Error id:2 seq:47 res:-32 (Broken pipe): no more input formats
+13:25:06.275: ==== Shutting down ==================================================
+13:25:06.492: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1f.3-platform-skl_hda_dsp_generic.HiFi__Speaker__sink.monitor'
+13:25:06.492: pulse-input: Got 177670 packets with 213204000 frames
+13:25:06.492: Deduplication logic stopped.
+13:25:06.492: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1f.3-platform-skl_hda_dsp_generic.HiFi__Mic1__source'
+13:25:06.492: pulse-input: Got 177660 packets with 213192000 frames
+13:25:06.492: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1f.3-platform-skl_hda_dsp_generic.HiFi__Mic1__source'
+13:25:06.492: pulse-input: Got 158773 packets with 190527600 frames
+13:25:06.492: [pipewire] Stream 0x560e491ff2d0 state: "unconnected" (error: none)
+13:25:06.512: All scene data cleared
+13:25:06.512: ------------------------------------------------
+13:25:06.513: Crash sentinel location '/home/aab/.config/obs-studio/.sentinel' does not exist
+13:25:06.554: [obs-websocket] [obs_module_unload] Shutting down...
+13:25:06.554: Tried to call obs_frontend_remove_event_callback with no callbacks!
+13:25:06.554: [obs-websocket] [obs_module_unload] Finished shutting down.
+13:25:06.554: [obs-pwvideo] plugin unloaded
+13:25:06.559: [Scripting] Total detached callbacks: 0
+13:25:06.559: Freeing OBS context data
+13:25:06.560: 	4 source(s) were remaining

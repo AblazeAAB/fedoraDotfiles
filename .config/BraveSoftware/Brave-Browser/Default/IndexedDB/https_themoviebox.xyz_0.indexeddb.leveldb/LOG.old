@@ -1,0 +1,27 @@
+2026/07/24-22:01:34.106 1489 Reusing MANIFEST /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_themoviebox.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2026/07/24-22:01:34.107 1489 Recovering log #60
+2026/07/24-22:01:34.108 1489 Reusing old log /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_themoviebox.xyz_0.indexeddb.leveldb/000060.log 
+2026/07/24-22:01:35.848 1489 Level-0 table #66: started
+2026/07/24-22:01:35.851 1489 Level-0 table #66: 51444 bytes OK
+2026/07/24-22:01:35.854 1489 Delete type=0 #60
+2026/07/24-22:01:35.854 1489 Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/07/24-22:01:36.482 148b Compacting 1@1 + 1@2 files
+2026/07/24-22:01:36.570 148b Generated table #67@1: 404 keys, 26824 bytes
+2026/07/24-22:01:36.570 148b Compacted 1@1 + 1@2 files => 26824 bytes
+2026/07/24-22:01:36.571 148b compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/07/24-22:01:36.571 148b Delete type=2 #63
+2026/07/24-22:01:36.571 148b Delete type=2 #66
+2026/07/24-22:01:36.874 149c Level-0 table #69: started
+2026/07/24-22:01:36.877 149c Level-0 table #69: 14742 bytes OK
+2026/07/24-22:01:36.879 149c Delete type=0 #65
+2026/07/24-22:01:36.880 149c Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/07/24-22:01:36.935 149a Level-0 table #71: started
+2026/07/24-22:01:36.937 149a Level-0 table #71: 3285 bytes OK
+2026/07/24-22:01:36.939 149a Delete type=0 #68
+2026/07/24-22:01:36.939 149a Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x19\x00\x00\x05' @ 9768 : 1
+2026/07/24-22:01:36.939 149a Compacting 1@0 + 1@1 files
+2026/07/24-22:01:36.941 149a Generated table #72@0: 180 keys, 6071 bytes
+2026/07/24-22:01:36.942 149a Compacted 1@0 + 1@1 files => 6071 bytes
+2026/07/24-22:01:36.944 149a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/07/24-22:01:36.944 149a Delete type=2 #71
+2026/07/24-22:01:36.944 149a Manual compaction at level-0 from '\x00\x19\x00\x00\x05' @ 9768 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)

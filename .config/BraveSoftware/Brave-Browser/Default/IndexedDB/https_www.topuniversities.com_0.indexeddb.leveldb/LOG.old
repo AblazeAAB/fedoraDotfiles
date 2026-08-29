@@ -1,0 +1,7 @@
+2026/04/07-14:12:39.582 1bf9 Reusing MANIFEST /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.topuniversities.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/07-14:12:39.582 1bf9 Recovering log #8
+2026/04/07-14:12:39.582 1bf9 Reusing old log /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.topuniversities.com_0.indexeddb.leveldb/000008.log 
+2026/04/07-14:12:39.604 1c08 Level-0 table #14: started
+2026/04/07-14:12:39.605 1c08 Level-0 table #14: 824 bytes OK
+2026/04/07-14:12:39.608 1c08 Delete type=0 #8
+2026/04/07-14:12:39.608 1bf9 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

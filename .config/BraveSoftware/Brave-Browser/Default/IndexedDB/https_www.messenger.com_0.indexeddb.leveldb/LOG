@@ -1,0 +1,18 @@
+2026/08/15-22:38:32.693 157c Reusing MANIFEST /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/15-22:38:32.694 157c Recovering log #123
+2026/08/15-22:38:32.764 157c Reusing old log /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/000123.log 
+2026/08/15-22:38:34.672 10d8 Level-0 table #131: started
+2026/08/15-22:38:34.695 10d8 Level-0 table #131: 1580692 bytes OK
+2026/08/15-22:38:34.700 10d8 Delete type=0 #123
+2026/08/15-22:38:35.595 10d8 Compacting 1@1 + 4@2 files
+2026/08/15-22:38:35.643 10d8 Generated table #132@1: 30082 keys, 2163241 bytes
+2026/08/15-22:38:35.684 10d8 Generated table #133@1: 21762 keys, 2151486 bytes
+2026/08/15-22:38:35.740 10d8 Generated table #134@1: 70939 keys, 2218365 bytes
+2026/08/15-22:38:35.758 10d8 Generated table #135@1: 4552 keys, 1710788 bytes
+2026/08/15-22:38:35.758 10d8 Compacted 1@1 + 4@2 files => 8243880 bytes
+2026/08/15-22:38:35.761 10d8 compacted to: files[ 0 0 4 0 0 0 0 ]
+2026/08/15-22:38:35.762 10d8 Delete type=2 #125
+2026/08/15-22:38:35.762 10d8 Delete type=2 #126
+2026/08/15-22:38:35.762 10d8 Delete type=2 #127
+2026/08/15-22:38:35.762 10d8 Delete type=2 #128
+2026/08/15-22:38:35.762 10d8 Delete type=2 #131

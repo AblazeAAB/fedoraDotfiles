@@ -1,0 +1,28 @@
+[
+    {
+        "display_name": "",
+        "enabled": true,
+        "encoders": [],
+        "id": "",
+        "module_name": "obs-webkitgtk",
+        "outputs": [],
+        "services": [],
+        "sources": [
+            "webkitgtk"
+        ],
+        "version": ""
+    },
+    {
+        "display_name": "",
+        "enabled": true,
+        "encoders": [],
+        "id": "",
+        "module_name": "obs-pwvideo",
+        "outputs": [],
+        "services": [],
+        "sources": [
+            "pipewire-video-source"
+        ],
+        "version": ""
+    }
+]

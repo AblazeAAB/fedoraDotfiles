@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "A bővítmény webáruházban megjelenített rövid leírása",
+      "message": "Védi az adataidat. Privát keresés opcionális MI-funkciókkal, privát böngészés és hirdetésblokkolás."
+   },
+   "appName": {
+      "description": "A bővítmény webáruházban megjelenített neve",
+      "message": "DuckDuckGo Search & Tracker Protection"
+   }
+}

@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Scurtă descriere a extensiei, afișată în magazinul web",
+      "message": "Îți protejează datele. Căutare privată cu IA opțională, navigare privată și blocare a reclamelor."
+   },
+   "appName": {
+      "description": "Titlul extensiei, afișat în magazinul web",
+      "message": "DuckDuckGo Search & Tracker Protection"
+   }
+}

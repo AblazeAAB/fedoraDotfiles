@@ -1,0 +1,15 @@
+2026/08/27-10:25:55.310 197a Reusing MANIFEST /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/27-10:25:55.311 197a Recovering log #56
+2026/08/27-10:25:55.322 197a Reusing old log /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000056.log 
+2026/08/27-10:26:41.154 197a Level-0 table #61: started
+2026/08/27-10:26:41.162 197a Level-0 table #61: 140182 bytes OK
+2026/08/27-10:26:41.165 197a Delete type=0 #56
+2026/08/27-10:26:41.166 197a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/08/27-10:26:41.166 197a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x18\x00\x00\x05' @ 31007 : 1
+2026/08/27-10:26:41.166 197a Compacting 1@1 + 1@2 files
+2026/08/27-10:26:41.170 197a Generated table #62@1: 110 keys, 3280 bytes
+2026/08/27-10:26:41.170 197a Compacted 1@1 + 1@2 files => 3280 bytes
+2026/08/27-10:26:41.173 197a compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/08/27-10:26:41.174 197a Delete type=2 #58
+2026/08/27-10:26:41.174 197a Delete type=2 #61
+2026/08/27-10:26:41.174 197a Manual compaction at level-1 from '\x00\x18\x00\x00\x05' @ 31007 : 1 .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2026/07/31-15:27:19.547 1b7f Creating DB /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_xhamster.desi_0.indexeddb.leveldb since it was missing.
+2026/07/31-15:27:19.552 1b7f Reusing MANIFEST /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_xhamster.desi_0.indexeddb.leveldb/MANIFEST-000001
+2026/07/31-15:27:38.894 1b83 Level-0 table #5: started
+2026/07/31-15:27:38.897 1b83 Level-0 table #5: 3031 bytes OK
+2026/07/31-15:27:38.900 1b83 Delete type=0 #3
+2026/07/31-15:27:38.900 1b83 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

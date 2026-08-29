@@ -1,0 +1,14 @@
+[2026-05-20 00:41:31.463] [debug] [tls] skipping pinning for unknown hostname redirector.gvt1.com
+[2026-05-20 00:41:31.562] [info]  Electron's autoUpdater does not support the 'linux' platform. Ref: https://www.electronjs.org/docs/latest/api/auto-updater#platform-notices
+[2026-05-20 00:41:31.614] [debug] [tls] skipping pinning for unknown hostname r2---sn-n0hhpujvh-q5j6.gvt1.com
+[2026-05-20 00:43:03.273] [debug] [will-navigate] allow (main frame): https://account.proton.me/authorize?app=proton-pass&state=OMOZKe7H8XFCRRBFXZSyVOpISNXlhaur6BhMh5JtKW0&independent=0&prompt=login&promptBypass=sso&promptType=offline&pt=offline&t=1
+[2026-05-20 00:43:33.607] [debug] [will-navigate] allow (main frame): https://pass.proton.me/login#selector=ulikpbnxopvau3reuu5h3pa3ao6frste&sk=-epfD5fxUKiKL_wfGhdqJP-Ibh_DYxq1aBWI2y1E4II&v=1&state=OMOZKe7H8XFCRRBFXZSyVOpISNXlhaur6BhMh5JtKW0&p=1&tr=1&t=1&pv=1&pt=offline&source=0
+[2026-05-20 00:45:26.808] [debug] [setWindowOpenHandler] opening url externally: https://proton.me/pass/download
+[2026-05-21 14:36:07.011] [info]  Electron's autoUpdater does not support the 'linux' platform. Ref: https://www.electronjs.org/docs/latest/api/auto-updater#platform-notices
+[2026-05-21 14:36:16.210] [debug] [will-navigate] allow (main frame): https://account.proton.me/authorize?app=proton-pass&state=2b3OPdd9IbisuSFmpzEiqvpUlpy-9VM8DEww-cqtXYI&independent=0&prompt=login&promptBypass=sso&promptType=offline&pt=offline&t=1
+[2026-05-21 14:36:48.330] [debug] [will-navigate] allow (main frame): https://pass.proton.me/login#selector=4yhqelyha4ibtkm2wv5zb675ir4wdhxy&sk=VJye_fz_LIMFhlriBKiooFnD4rNOWTboH3AOlAjzZzI&v=1&state=2b3OPdd9IbisuSFmpzEiqvpUlpy-9VM8DEww-cqtXYI&p=1&tr=1&t=1&pv=1&pt=offline&source=0
+[2026-08-12 16:14:49.201] [info]  Electron's autoUpdater does not support the 'linux' platform. Ref: https://www.electronjs.org/docs/latest/api/auto-updater#platform-notices
+[2026-08-12 16:14:53.986] [debug] [will-navigate] allow (main frame): https://account.proton.me/authorize?app=proton-pass&state=Truky11KrhCCFY3V7PIpdj7rGNBUO2n4qwfp3fcIY4k&independent=0&prompt=login&promptBypass=sso&promptType=offline&pt=offline&t=1
+[2026-08-12 16:18:35.442] [debug] [will-navigate] allow (main frame): https://pass.proton.me/login#selector=cxzvjd5pl5rawtx7rp5b4mpw2nnt3sht&sk=xTRFy8hDW8UF0MnFFsqIXIfKHN8sD5oI8kNVISY5INc&v=1&state=Truky11KrhCCFY3V7PIpdj7rGNBUO2n4qwfp3fcIY4k&p=1&tr=1&t=1&pv=1&pt=default&source=0
+[2026-08-12 16:19:17.861] [debug] [setWindowOpenHandler] opening url externally: https://proton.me/pass/download
+[2026-08-12 16:19:38.676] [debug] [setWindowOpenHandler] opening url externally: https://proton.me/support/set-up-proton-pass-linux

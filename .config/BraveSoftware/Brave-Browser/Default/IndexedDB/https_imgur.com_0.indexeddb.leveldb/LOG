@@ -1,0 +1,18 @@
+2026/05/30-11:51:24.996 2813 Creating DB /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb since it was missing.
+2026/05/30-11:51:25.000 2813 Reusing MANIFEST /home/aab/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/30-11:51:25.047 2826 Level-0 table #5: started
+2026/05/30-11:51:25.049 2826 Level-0 table #5: 1634 bytes OK
+2026/05/30-11:51:25.053 2826 Delete type=0 #3
+2026/05/30-11:51:25.053 2813 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/05/30-11:51:36.378 2817 Level-0 table #7: started
+2026/05/30-11:51:36.380 2817 Level-0 table #7: 3061 bytes OK
+2026/05/30-11:51:36.384 2817 Delete type=0 #4
+2026/05/30-11:51:36.384 2817 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/05/30-11:51:36.384 2817 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x009\x004\x005\x007\x007\x008\x008\x009\x005\x002\x006\x002\x00:\x00w\x00e\x00b\x00:\x007\x001\x00a\x004\x00d\x005\x003\x001\x002\x00c\x00b\x005\x00b\x00e\x005\x003\x009\x003\x004\x00e\x008\x00f' @ 186 : 1
+2026/05/30-11:51:36.384 2817 Compacting 1@1 + 1@2 files
+2026/05/30-11:51:36.385 2817 Generated table #8@1: 57 keys, 1895 bytes
+2026/05/30-11:51:36.385 2817 Compacted 1@1 + 1@2 files => 1895 bytes
+2026/05/30-11:51:36.387 2817 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/05/30-11:51:36.387 2817 Delete type=2 #5
+2026/05/30-11:51:36.387 2817 Delete type=2 #7
+2026/05/30-11:51:36.388 2817 Manual compaction at level-1 from '\x00\x04\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x009\x004\x005\x007\x007\x008\x008\x009\x005\x002\x006\x002\x00:\x00w\x00e\x00b\x00:\x007\x001\x00a\x004\x00d\x005\x003\x001\x002\x00c\x00b\x005\x00b\x00e\x005\x003\x009\x003\x004\x00e\x008\x00f' @ 186 : 1 .. (end); will stop at (end)

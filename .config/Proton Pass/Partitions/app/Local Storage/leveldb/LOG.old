@@ -1,0 +1,5 @@
+2026/05/21-14:36:06.458 7104 Reusing MANIFEST /home/aab/.config/Proton Pass/Partitions/app/Local Storage/leveldb/MANIFEST-000001
+2026/05/21-14:36:06.465 7104 Recovering log #3
+2026/05/21-14:36:06.465 7104 Level-0 table #3: started
+2026/05/21-14:36:06.467 7104 Level-0 table #3: 16108 bytes OK
+2026/05/21-14:36:06.471 7104 Delete type=0 #3

@@ -1,0 +1,15 @@
+2026/08/29-18:49:45.354 3380 Reusing MANIFEST /home/aab/.config/google-chrome/Default/Local Extension Settings/bgnkhhnnamicmpeenaelnjfhikgbkllg/MANIFEST-000001
+2026/08/29-18:49:45.356 3380 Recovering log #36
+2026/08/29-18:49:45.361 3380 Reusing old log /home/aab/.config/google-chrome/Default/Local Extension Settings/bgnkhhnnamicmpeenaelnjfhikgbkllg/000036.log 
+2026/08/29-18:49:54.219 3383 Level-0 table #40: started
+2026/08/29-18:49:54.238 3383 Level-0 table #40: 1374708 bytes OK
+2026/08/29-18:49:54.241 3383 Delete type=0 #36
+2026/08/29-18:49:54.242 3383 Compacting 4@0 + 1@1 files
+2026/08/29-18:49:54.267 3383 Generated table #41@0: 6 keys, 343912 bytes
+2026/08/29-18:49:54.267 3383 Compacted 4@0 + 1@1 files => 343912 bytes
+2026/08/29-18:49:54.270 3383 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/29-18:49:54.270 3383 Delete type=2 #30
+2026/08/29-18:49:54.270 3383 Delete type=2 #32
+2026/08/29-18:49:54.270 3383 Delete type=2 #35
+2026/08/29-18:49:54.270 3383 Delete type=2 #37
+2026/08/29-18:49:54.270 3383 Delete type=2 #40
